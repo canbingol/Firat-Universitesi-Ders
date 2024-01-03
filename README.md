@@ -4,7 +4,8 @@
 ------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------
-> Katkı sağlamak isterseniz ilgili alanlara dokümanları PR açarak yükleyebilirsiniz. 
+> Katkı sağlamak isterseniz ilgili alanlara dokümanları PR açarak yükleyebilirsiniz.
+
 > PR nasıl açılır ? https://www.youtube.com/watch?v=8lGpZkjnkt4
 
 > Telif vb sorunlar için mail üzerinden ulaşabilirsiniz: emin2470@gmail.com
