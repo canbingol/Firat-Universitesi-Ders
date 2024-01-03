@@ -4,7 +4,7 @@
 ------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------
-> Katkı sağlamak isterseniz ilgili alanlara dokümanları PR açarak yükleyebilirsiniz.
+> Katkı sağlamak isterseniz ilgili dokümanları PR açarak ekleyebilirsiniz.
 
 > PR nasıl açılır ? https://www.youtube.com/watch?v=8lGpZkjnkt4
 
